@@ -4,16 +4,6 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-<!-- snake -->
-## 🐍 Snake Eating My Contributions
-
-<div align="center">
-  <img src="https://github.com/Guhxs1010/guhxs1010/blob/output/snake.svg" alt="snake animation" />
-</div>
-
-
-
-<br>
 
 <!-- Presentation -->
  <p>
