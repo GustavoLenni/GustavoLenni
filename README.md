@@ -5,11 +5,12 @@
 </div>
 
 <!-- snake -->
+## 🐍 Snake Eating My Contributions
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-    alt="snake" /></a>
+  <img src="https://github.com/guhxs1010/guhxs1010/blob/output/snake.svg" alt="snake animation" />
 </div>
+
 
 <br>
 
