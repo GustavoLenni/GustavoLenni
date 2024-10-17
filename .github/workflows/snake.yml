@@ -4,7 +4,6 @@ on:
   schedule:
     # Atualiza a cobra diariamente à meia-noite UTC
     - cron: "0 0 * * *"
-
   workflow_dispatch:  # Permite execução manual do workflow
 
 jobs:
@@ -13,20 +12,21 @@ jobs:
 
     steps:
       # Faz checkout do repositório
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
       # Gera a animação da cobra com Platane/snk
-      - uses: Platane/snk@v2
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
         with:
           github_user_name: Guhxs1010  # Coloque seu nome de usuário
           svg_out_path: dist/snake.svg
 
       # Publica a animação como GitHub Pages
-      - uses: crazy-max/ghaction-github-pages@v2.6.0
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output  # Cria o branch 'output'
           build_dir: dist  # Pasta onde o SVG é salvo
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-Adiciona Snake Game
