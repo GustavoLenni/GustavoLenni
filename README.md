@@ -1,8 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=guhxs1010.guhxs1010" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello worls+!+👋;+I'm+Gustavo+Lenni!;" />
-</h1>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guhxs1010/guhxs1010/output/github-contribution-grid-snake-dark.svg">
