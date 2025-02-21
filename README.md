@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em link do portfólio [https://GustavoLenni.github.io/Portfolio/](https://GustavoLenni.github.io/Portfolio/)
 
-- 📫 Como entrar em contato comigo **gustavolennifarias@gmail.com-**
+- 📫 Como entrar em contato comigo **gustavolennifarias@gmail.com**
 
 
 <p align="left">
