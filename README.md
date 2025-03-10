@@ -5,7 +5,13 @@
 
 `Full Stack Developer`
 
-Eu sou Gustavo Lenni Sou desenvolvedor Full stack conheço algumas tecnologias como html,css,javascript,pyton,php, node.js,mysql, figma, github  e entre outros, desde novo sempre gostei do mundo da tecnologia e recentemente (mais ou menos dois anos atrás ) vi a paixão pelo ti por desenvolver sites e aplicativos como tudo isso era tão incrivel e foi ai que me encontrei realmente.
+Eu sou Gustavo Lenni Sou desenvolvedor Full stack Trabalho com diversas tecnologias, incluindo:
+Front-end: HTML, CSS, JavaScript
+Back-end: Node.js, PHP, Python
+Banco de dados: MySQL
+Ferramentas e Design: GitHub, Figma.
+
+Desde novo sempre gostei do mundo da tecnologia e recentemente (mais ou menos dois anos atrás ) vi a paixão pelo ti por desenvolver sites e aplicativos como tudo isso era tão incrivel e foi ai que me encontrei realmente.
 Estou sempre buscando aprender e aprimorar minhas habilidades para desenvolver soluções inovadoras e eficientes.
 
 ---
