@@ -4,8 +4,7 @@
 
 
 `Full Stack Developer`
-
-Full Stack Developer
+### Meu Portfólio https://gustavolenni.netlify.app
 
 Eu sou Gustavo Lenni Sou desenvolvedor Full stack Trabalho com diversas tecnologias, incluindo:
 Front-end: HTML, CSS, JavaScript
