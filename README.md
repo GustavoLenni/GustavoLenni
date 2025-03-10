@@ -1,6 +1,14 @@
 <br clear="both">
 
-<p align="center">👋 Bem vindo sou Gustavo Lenni</p>
+# 👨🏽‍💻 Gustavo Lenni 
+
+
+`Full Stack Developer`
+
+Eu sou Gustavo Lenni Sou desenvolvedor Full stack conheço algumas tecnologias como html,css,javascript,pyton,php, node.js,mysql, figma, github  e entre outros, desde novo sempre gostei do mundo da tecnologia e recentemente (mais ou menos dois anos atrás ) vi a paixão pelo ti por desenvolver sites e aplicativos como tudo isso era tão incrivel e foi ai que me encontrei realmente.
+Estou sempre buscando aprender e aprimorar minhas habilidades para desenvolver soluções inovadoras e eficientes.
+
+---
 
 ###
 
