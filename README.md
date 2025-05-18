@@ -1,24 +1,20 @@
-
 <img src="https://github.com/user-attachments/assets/21ae9ce1-e148-4ef3-a65c-f97fda28dd7a" width="500">
-
 
 <br clear="both">
 
 # 👨🏽‍💻 Gustavo Lenni 
 
+`Full Stack Developer`  
+### My Portfolio https://gustavolenni.netlify.app
 
-`Full Stack Developer`
-### Meu Portfólio https://gustavolenni.netlify.app
+I'm Gustavo Lenni, a Full Stack Developer. I work with various technologies, including:  
+Front-end: HTML, CSS, JavaScript  
+Back-end: Node.js, PHP, Python  
+Database: MySQL  
+Tools and Design: GitHub, Figma.
 
-Eu sou Gustavo Lenni Sou desenvolvedor Full stack Trabalho com diversas tecnologias, incluindo:
-Front-end: HTML, CSS, JavaScript
-Back-end: Node.js, PHP, Python
-Banco de dados: MySQL
-Ferramentas e Design: GitHub, Figma.
-
-Desde novo sempre gostei do mundo da tecnologia e recentemente (mais ou menos dois anos atrás ) vi a paixão pelo ti por desenvolver sites e aplicativos como tudo isso era tão incrivel e foi ai que me encontrei realmente.
-Estou sempre buscando aprender e aprimorar minhas habilidades para desenvolver soluções inovadoras e eficientes.
-
+Since I was young, I've always loved the world of technology. About two years ago, I discovered my passion for IT and for developing websites and applications — I found it all so amazing, and that's when I truly found myself.  
+I'm always looking to learn and improve my skills to create innovative and efficient solutions.
 
 ---
 
@@ -47,7 +43,7 @@ Estou sempre buscando aprender e aprimorar minhas habilidades para desenvolver s
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" alt="figma logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
   <img width="12" />
 </div>
 
