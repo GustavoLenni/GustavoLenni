@@ -4,7 +4,7 @@
 
 # 💻 Gustavo Lenni 
 
-`Full Stack Developer`  
+`Back End Developer`  
 ### My Portfolio https://gustavolenni.netlify.app
 
 I'm Gustavo Lenni, a Back End Developer. I work with various technologies, including:  
