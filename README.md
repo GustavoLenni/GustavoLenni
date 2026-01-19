@@ -2,16 +2,13 @@
 
 <br clear="both">
 
-# 👨🏽‍💻 Gustavo Lenni 
+# 💻 Gustavo Lenni 
 
 `Full Stack Developer`  
 ### My Portfolio https://gustavolenni.netlify.app
 
-I'm Gustavo Lenni, a Full Stack Developer. I work with various technologies, including:  
-Front-end: HTML, CSS, JavaScript  
-Back-end: Node.js, PHP, Python  
-Database: MySQL  
-Tools and Design: GitHub, Figma.
+I'm Gustavo Lenni, a Back End Developer. I work with various technologies, including:  
+Back-end: Java and PHP
 
 Since I was young, I've always loved the world of technology. About two years ago, I discovered my passion for IT and for developing websites and applications — I found it all so amazing, and that's when I truly found myself.  
 I'm always looking to learn and improve my skills to create innovative and efficient solutions.
