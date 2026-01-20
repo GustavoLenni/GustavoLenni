@@ -17,27 +17,8 @@ I'm always looking to learn and improve my skills to create innovative and effic
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavolenni&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="141" alt="languages graph"  />
-</div>
+![](https://nirzak-streak-stats.vercel.app/?user=GustavoLenni&theme=dark&hide_border=false)<br/>
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="25" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/gustavolenni/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
